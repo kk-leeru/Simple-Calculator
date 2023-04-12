@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1619277221 source:c:\users\kittipon leerujanont\dropbox\my pc (laptop-89fsiutl)\documents\csii\mini project 1\miniproject_1\package\calculator_recursion\mini_project\codegen.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"codeGen.h"
+
+1611669058 c:\users\kittipon leerujanont\dropbox\my pc (laptop-89fsiutl)\documents\csii\mini project 1\miniproject_1\package\calculator_recursion\mini_project\codegen.h
+	"parser.h"
+
+1619262822 c:\users\kittipon leerujanont\dropbox\my pc (laptop-89fsiutl)\documents\csii\mini project 1\miniproject_1\package\calculator_recursion\mini_project\parser.h
+	"lex.h"
+
+1618986622 c:\users\kittipon leerujanont\dropbox\my pc (laptop-89fsiutl)\documents\csii\mini project 1\miniproject_1\package\calculator_recursion\mini_project\lex.h
+
+1619205457 source:c:\users\kittipon leerujanont\dropbox\my pc (laptop-89fsiutl)\documents\csii\mini project 1\miniproject_1\package\calculator_recursion\mini_project\lex.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"lex.h"
+
+1619263896 source:c:\users\kittipon leerujanont\dropbox\my pc (laptop-89fsiutl)\documents\csii\mini project 1\miniproject_1\package\calculator_recursion\mini_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"lex.h"
+	"parser.h"
+
+1619278175 source:c:\users\kittipon leerujanont\dropbox\my pc (laptop-89fsiutl)\documents\csii\mini project 1\miniproject_1\package\calculator_recursion\mini_project\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"codeGen.h"
+
